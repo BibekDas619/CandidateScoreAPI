@@ -1,3 +1,4 @@
-node_modules/
-.env/
-Procfile/
+/node_modules
+/*.env
+/Procfile
+/Payload_And_Url_Details.txt
